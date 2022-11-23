@@ -150,3 +150,94 @@ section h2{ color: rgb(236, 147, 45); font-size: 12px; font-family:'Segoe UI', T
 footer{ background: #000; color: white; text-align: center; padding: 15px 0; font-size: 7px; }
 
 }
+
+@media all and (max-device-width: 379px) {  
+    header h1 {text-shadow: 5px 6px 5px rgb(250, 235, 235);color: rgb(180, 139, 255);text-align: center; font-size: 22px;}
+    header h1{letter-spacing: 8px;}
+    header p {color: rgb(28, 226, 226);text-align: center; padding: 0px;}
+    
+    header p {text-align: center; font-size: 12px; margin: 0px;padding: 0;}
+    header { background: #000000; padding: 5px; text-align:right; }
+    header span{ color: #fff; font-weight: bold; text-transform: uppercase; margin-right: 5%; word-spacing: 2cm; }
+    
+
+    nav { background-color: rgb(255, 181, 224); font-size: 10px;}
+    nav a{ color: #0f28b3; text-decoration: none; padding: 7px; }
+    nav a{ display: inline-block; padding: 5px;}
+     nav a:hover{ background: #04baf6; }
+
+    nav{width: auto;
+        text-align: left;
+   }
+
+
+section h2{ color: rgb(236, 147, 45); font-size: 12px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;
+    text-shadow:30px rgb(0, 130, 139); }
+    
+    section h2{ color: rgb(236, 147, 45); font-size: 12px; word-spacing: 1px;  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;
+        text-shadow:30px rgb(0, 130, 139); }
+        
+       section { font-size: 6px;}
+        section p {font-size: 6px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 1px; line-height: 10px;text-align: justify; }
+        section{ font-size: 12px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 5px; line-height: 10px;text-align: justify;}
+         section { font-size: 12px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 5px; line-height: 10px;text-align: justify;}
+    section div4 { font-size: 9px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 5px; line-height: 10px;text-align: justify;}
+            section main{ background-color: rgb(129, 167, 238);border-radius: 8px; margin: 5px; padding: 7px;}
+            section main h2{color: rgb(238, 50, 50);}
+            section  ul{ font-size: 6px; text-align: justify; line-height: 10px;word-spacing: 1px;}
+            section h3{ color: rgb(5, 49, 194); font-size: 10px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; word-spacing: 1px; text-transform: none;}
+            section h4 { color: rgb(17, 16, 17); font-size: 9.5px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;}
+            section h4{text-transform:none; word-spacing: 1px}
+            main p2{ color:rgb(238, 6, 6);font-size: 9px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+            main { background-color: #f6a8fd; border-radius: 8px;}
+            main {margin: 5px; padding: 15px; }
+            
+/**************************************************** BAS ************************************************/
+footer{ background: #000; color: white; text-align: center; padding: 15px 0; font-size: 7px; }
+
+}
+@media all and (max-device-width: 379px) {  
+    header h1 {text-shadow: 5px 6px 5px rgb(250, 235, 235);color: rgb(180, 139, 255);text-align: center; font-size: 22px;}
+    header h1{letter-spacing: 8px;}
+    header p {color: rgb(28, 226, 226);text-align: center; padding: 0px;}
+    
+    header p {text-align: center; font-size: 12px; margin: 0px;padding: 0;}
+    header { background: #000000; padding: 5px; text-align:right; }
+    header span{ color: #fff; font-weight: bold; text-transform: uppercase; margin-right: 5%; word-spacing: 2cm; }
+    
+
+    nav { background-color: rgb(255, 181, 224); font-size: 10px;}
+    nav a{ color: #0f28b3; text-decoration: none; padding: 7px; }
+    nav a{ display: inline-block; padding: 5px;}
+     nav a:hover{ background: #04baf6; }
+
+    nav{width: auto;
+        text-align: left;
+   }
+
+
+section h2{ color: rgb(236, 147, 45); font-size: 12px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;
+    text-shadow:30px rgb(0, 130, 139); }
+    
+    section h2{ color: rgb(236, 147, 45); font-size: 12px; word-spacing: 1px;  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;
+        text-shadow:30px rgb(0, 130, 139); }
+        
+       section { font-size: 6px;}
+        section p {font-size: 6px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 1px; line-height: 10px;text-align: justify; }
+        section{ font-size: 12px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 5px; line-height: 10px;text-align: justify;}
+         section { font-size: 12px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 5px; line-height: 10px;text-align: justify;}
+    section div4 { font-size: 9px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 5px; line-height: 10px;text-align: justify;}
+            section main{ background-color: rgb(129, 167, 238);border-radius: 8px; margin: 5px; padding: 7px;}
+            section main h2{color: rgb(238, 50, 50);}
+            section  ul{ font-size: 6px; text-align: justify; line-height: 10px;word-spacing: 1px;}
+            section h3{ color: rgb(5, 49, 194); font-size: 10px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; word-spacing: 1px; text-transform: none;}
+            section h4 { color: rgb(17, 16, 17); font-size: 9.5px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;}
+            section h4{text-transform:none; word-spacing: 1px}
+            main p2{ color:rgb(238, 6, 6);font-size: 9px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+            main { background-color: #f6a8fd; border-radius: 8px;}
+            main {margin: 5px; padding: 15px; }
+            
+/**************************************************** BAS ************************************************/
+footer{ background: #000; color: white; text-align: center; padding: 15px 0; font-size: 7px; }
+
+}
