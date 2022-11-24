@@ -182,7 +182,7 @@ footer{ background: #000; color: white; text-align: center; padding: 15px 0; fon
     nav a{ color: #0f28b3; text-decoration: none; padding: 7px; }
     nav a{ display: inline-block; padding: 5px;}
      nav a:hover{ background: #04baf6; }
-
+section{margin: 9px}
     nav{width: auto;
         text-align: left;
    }
@@ -193,9 +193,9 @@ section h2{ color: rgb(236, 147, 45); font-size: 12px; font-family:'Segoe UI', T
     
     section h2{ color: rgb(236, 147, 45); font-size: 12px; word-spacing: 1px;  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;
         text-shadow:30px rgb(0, 130, 139); }
-        
+ section{margin: 9px}
        section { font-size: 6px;}
-        section article p {font-size: 6px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 1px; line-height: 10px;text-align: justify; }
+        section article p {font-size: 7px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 1px; line-height: 10px;text-align: justify; }
         section{ font-size: 12px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 5px; line-height: 10px;text-align: justify;}
          section { font-size: 12px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 5px; line-height: 10px;text-align: justify;}
     section div4 { font-size: 9px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 5px; line-height: 10px;text-align: justify;}
