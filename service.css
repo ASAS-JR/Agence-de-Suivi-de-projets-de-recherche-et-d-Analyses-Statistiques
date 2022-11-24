@@ -171,6 +171,8 @@ footer{ background: #000; color: white; text-align: center; padding: 15px 0; fon
    }
 
 
+   section{padding: 5px;}
+   section{margin: 4px;}
 section h2{ color: rgb(236, 147, 45); font-size: 12px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;
     text-shadow:30px rgb(0, 130, 139); }
     
