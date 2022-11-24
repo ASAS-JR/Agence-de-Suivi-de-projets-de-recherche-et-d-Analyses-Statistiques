@@ -171,8 +171,8 @@ footer{ background: #000; color: white; text-align: center; padding: 15px 0; fon
    }
 
 
-   section{padding: 5px;}
-   section{margin: 4px;}
+   section{padding: 6px;}
+   section{margin: 5px;}
 section h2{ color: rgb(236, 147, 45); font-size: 12px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;
     text-shadow:30px rgb(0, 130, 139); }
     
@@ -224,10 +224,10 @@ section h2{ color: rgb(236, 147, 45); font-size: 12px; font-family:'Segoe UI', T
     section h2{ color: rgb(236, 147, 45); font-size: 12px;  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;
         text-shadow:30px rgb(0, 130, 139); }
 
-   section{  padding: 5px;}
+   section{padding: 5px;}
    section{margin:5px;}
        section { font-size: 6px;}
-        section p {font-size: 5px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 1px; line-height: 9px;text-align: justify; }
+        section p {font-size: 5px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; line-height: 9px;text-align: justify; }
         section{ font-size: 5px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 5px; line-height: 10px;text-align: justify;}
          section { font-size: 12px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 5px; line-height: 10px;text-align: justify;}
     section div4 { font-size: 5px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 1px; line-height: 9px;text-align: justify;}
