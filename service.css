@@ -131,6 +131,8 @@ section h2{ color: rgb(236, 147, 45); font-size: 12px; font-family:'Segoe UI', T
     section h2{ color: rgb(236, 147, 45); font-size: 14px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;
         text-shadow:30px rgb(0, 130, 139); }
         
+   section{ padding: 9px;}
+   section{margin: 9px;}
        section { font-size: 12px;}
         section p {font-size: 9px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 1px; line-height: 15px;text-align: justify; }
         section{ font-size: 12px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 5px; line-height: 22px;text-align: justify;}
