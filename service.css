@@ -219,7 +219,7 @@ footer{ background: #000; color: white; text-align: center; padding: 15px 0; fon
 section h2{ color: rgb(236, 147, 45); font-size: 12px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;
     text-shadow:30px rgb(0, 130, 139); }
     
-    section h2{ color: rgb(236, 147, 45); font-size: 12px; word-spacing: 1px;  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;
+    section h2{ color: rgb(236, 147, 45); font-size: 12px;  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;
         text-shadow:30px rgb(0, 130, 139); }
         
        section { font-size: 6px;}
@@ -230,9 +230,9 @@ section h2{ color: rgb(236, 147, 45); font-size: 12px; font-family:'Segoe UI', T
             section main{ background-color: rgb(129, 167, 238);border-radius: 8px; margin: 5px; padding: 7px;}
             section main h2{color: rgb(238, 50, 50);}
             section  ul{ font-size: 5px; text-align: justify; line-height: 9px;word-spacing: 1px;}
-            section h3{ color: rgb(5, 49, 194); font-size: 9px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; word-spacing: 1px;  line-height: 9px; text-transform: none;}
+            section h3{ color: rgb(5, 49, 194); font-size: 9px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 9px; text-transform: none;}
             section h4 { color: rgb(17, 16, 17); font-size: 7.5px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;}
-            section h4{text-transform:none; word-spacing: 1px; line-height: 9px;}
+            section h4{text-transform:none; line-height: 9px;}
             main p2{ color:rgb(238, 6, 6);font-size: 9px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
             main { background-color: #f6a8fd; border-radius: 8px;}
             main {margin: 5px; padding: 15px; }
